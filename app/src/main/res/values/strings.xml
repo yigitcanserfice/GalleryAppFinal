@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyGalleyAppFinal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="cv_name">Yiğitcan Serfiçe</string>
+    <string name="cv_desc">Ben Balıkesir Üniversitesi Bilgisayar Mühendisliği 4. Sınıf öğrencisiyim. Güncel olarak ReactJs öğrenmekteyim. İleri zamanlarda ise React Native öğrenerek mobil tarafta çalışmayı hedefliyorum. Bu uygulamayı Mobil Programlama Dersi Final Projesi olarak yaptım. Uygulamayı yaparken firebase i başlangıç seviyesinde kullanmayı ve android studioda fragmentları kullanmayı öğrendim. Uygulamayı geliştirirken aynı zamanda bu uygulamanın yapılış eğitimini bir
+        Youtube eğitim video serisi olarak çektim. Aşağıdaki Linkten Video Serisine ulaşabilirsiniz.</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

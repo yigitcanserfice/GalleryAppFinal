@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_add_label">
+
+    <fragment
+        android:id="@+id/nav_add_label"
+        android:name="com.example.mygalleyappfinal.ui.AddLabelFragment"
+        android:label="Add Label"
+        tools:layout="@layout/fragment_add_label" />
+
+    <fragment
+        android:id="@+id/nav_add_photo"
+        android:name="com.example.mygalleyappfinal.ui.AddPhotoFragment"
+        android:label="Add Photo"
+        tools:layout="@layout/fragment_add_photo" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.mygalleyappfinal.ui.GalleryFragment"
+        android:label="Gallery"
+        tools:layout="@layout/fragment_gallery" />
+    <fragment
+        android:id="@+id/nav_about"
+        android:name="com.example.mygalleyappfinal.ui.AboutFragment"
+        android:label="About"
+        tools:layout="@layout/fragment_about" />
+</navigation>

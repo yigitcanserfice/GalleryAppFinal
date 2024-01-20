@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143188756467",
+    "project_id": "mygalleyappfinal",
+    "storage_bucket": "mygalleyappfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143188756467:android:b0e96e553a4e33b8f4b486",
+        "android_client_info": {
+          "package_name": "com.example.mygalleyappfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHS7uSWkeh1el42zUJXmiGWK9ZSFXh368"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
